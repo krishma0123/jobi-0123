@@ -14,7 +14,10 @@ const BigSidebar = () => {
       >
         <div className='content'>
           <header>
-            <Logo />
+          <h2 className='logo'>
+
+Job Board
+</h2>
           </header>
           <NavLinks isBigSidebar />
         </div>

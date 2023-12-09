@@ -13,7 +13,10 @@ const Navbar = () => {
           <FaAlignLeft />
         </button>
         <div>
-          <Logo />
+          <h2 className='logo'>
+
+          Job Board
+          </h2>
           <h4 className='logo-text'>dashboard</h4>
         </div>
         <div className='btn-container'>

@@ -19,7 +19,10 @@ const SmallSidebar = () => {
             <FaTimes />
           </button>
           <header>
-            <Logo />
+          <h2 className='logo'>
+
+Job Board
+</h2>
           </header>
           <NavLinks />
         </div>

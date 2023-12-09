@@ -21,7 +21,10 @@ const Register = () => {
   return (
     <Wrapper>
       <Form method='post' className='form'>
-        <Logo />
+      <h4 className='logo'>
+
+Job Board
+</h4>
         <h4>Register</h4>
         <FormRow type='text' name='name' />
         <FormRow type='text' name='lastName' labelText='last name' />
